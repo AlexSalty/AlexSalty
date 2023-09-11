@@ -32,3 +32,9 @@
 | Vimpelcom  | Commercial Department / B2C Mobile NW Region  | Значение  | Значение  | Значение  | Значение      |
 | Maytex  | Whosale Sales / Marketing  | Marketing Analyst  | Значение  | Значение  | Значение      |
 
+
+## Progects
+
+| Project Name | Project Source | Description | Status |
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
