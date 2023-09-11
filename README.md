@@ -1,6 +1,6 @@
 ## BIO
 
-## Quick Links
+## Contacts
 
 <p align='center'>
    <a href="linkedin.com/in/alexander-saltykov-04572376">
