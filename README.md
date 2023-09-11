@@ -1,4 +1,6 @@
-Hi There
+## BIO
+
+## Quick Links
 
 <p align='center'>
    <a href="linkedin.com/in/alexander-saltykov-04572376">
@@ -12,16 +14,14 @@ Hi There
    </a>
 </p>
 
-## 🛠 Technical Stack
+## Technical Stack
 *   Java/Kotlin/Groovy/COBOL languages
 *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-**Track Record**
-
----
+## Track Record
 
 
 | Company | Department | Role | Responsibilities | Achievments |  End/Start Dates  |
