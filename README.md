@@ -15,9 +15,9 @@ Hi There
 markdown
 | Company | Department | Role | Responsibilities | Achievments |  End/Start Dates  |
 |-----------|-----------|-----------|-----------|-----------|---------------|
-| Значение  | Значение  | Значение  | Значение  | Значение  | Значение      |
-| Значение  | Значение  | Значение  | Значение  | Значение  | Значение      |
-| Значение  | Значение  | Значение  | Значение  | Значение  | Значение      |
-| Значение  | Значение  | Значение  | Значение  | Значение  | Значение      |
-| Значение  | Значение  | Значение  | Значение  | Значение  | Значение      |
+| Yandex  | Operations Block / Search Portal  | Head of planning and Reporting  | As a leader of the analytics team, my role involves overseeing key revenue planning and budgeting processes. I am responsible for centralized plan-fact reporting, providing insights to an audience of 800+ users. This reporting not only presents the actual performance against the plan but also uncovers the underlying reasons behind the variances. Furthermore, I possess expertise in core data analytics and planning, enabling me to develop ML-based forecasting models that achieve a remarkable 3% accuracy rate per quarter. In addition to financial metrics, I also implement non-financial metrics to enhance the quality of forecasting and business evaluation.  | TBD  | 2019 - Current Position / 4yrs     |
+| Vimpelcom  | Значение  | Значение  | Значение  | Значение  | Значение      |
+| Netcracker  | Значение  | Значение  | Значение  | Значение  | Значение      |
+| Vimpelcom  | Значение  | Значение  | Значение  | Значение  | Значение      |
+| Maytex  | Значение  | Значение  | Значение  | Значение  | Значение      |
 
