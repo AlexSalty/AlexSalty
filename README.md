@@ -1,5 +1,8 @@
 ## BIO
 
+For the past six years, I have been leading teams of technical and financial analysts, focusing on automated reporting and facilitating decision-making based on data. When I was an analyst myself, I always enjoyed creating reports and writing database queries. Today, the world of analytics has changed significantly - data is growing exponentially, new approaches and tools are emerging. In order to stay up to date with the latest trends, I strive to learn something new. Below, you can track my progress in this exciting new world.
+
+
 ## Contacts
 
 <p align='center'>
@@ -15,10 +18,10 @@
 </p>
 
 ## Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   Excel, Power Query/Pivot, VBA, DAX
+*   Power BI, Tableau, Qlick Sense (favorite)
+*   PL SQL, MS SQL, YQL
+*   Pyton, R
 *   GitHub/GitLab/Gerrit/Bitbucket
 
 ## Track Record
