@@ -31,8 +31,7 @@ For the past six years, I have been leading teams of technical and financial ana
 
 | Company | Department | Role | Responsibilities | Achievments |  End/Start Dates  |
 |-----------|-----------|-----------|-----------|-----------|---------------|
-| Yandex  | Operations Block / Search Portal  | Head of planning and Reporting  | As a leader of the analytics team, my responsibilities include overseeing revenue planning and budgeting processes, providing insights through centralized plan-fact reporting to a large audience. I excel in core data analytics and planning, utilizing machine learning-based forecasting models with a remarkable 3% accuracy rate per quarter. I also implement non-financial metrics to improve forecasting and business evaluation.
-  | TBD  | 2019 - Current Position / 4yrs     |
+| Yandex  | Operations Block / Search Portal  | Head of planning and Reporting  | As a leader of the analytics team, my responsibilities include overseeing revenue planning and budgeting processes, providing insights through centralized plan-fact reporting to a large audience. I excel in core data analytics and planning, utilizing machine learning-based forecasting models with a remarkable 3% accuracy rate per quarter. I also implement non-financial metrics to improve forecasting and business evaluation. | TBD  | 2019 - Current Position / 4yrs     |
 | Vimpelcom  | Distribution Block / B2C Mobile HQ  | Head of Reporting and Analytics  | Develop and execute Sales & Business Intelligence Strategy. Capture and process Business Intelligence requirements. Establish and manage internal data warehouse. Champion latest BI technologies. Implement agile working practices.
   | Значение  | Значение      |
 | Netcracker  | Product Marketing / Cloud and NFV  | Product Marketing Analyst  | Значение  | Значение  | Значение      |
