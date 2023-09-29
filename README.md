@@ -52,7 +52,7 @@ For the past six years, I have been leading teams of technical and financial ana
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlexSalty&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlexSalty&show_icons=true&count_private=true"/></a>
+       <img height=130 src="https://github-readme-stats.vercel.app/api?username=AlexSalty&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AlexSalty/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSalty&layout=compact"/></a>
+       <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSalty&layout=compact"/></a>
 </p>
