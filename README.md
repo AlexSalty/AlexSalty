@@ -1,6 +1,6 @@
 <div align="left" style="margin: 30px 0">
    <a href="https://github.com/AlexSalty/github-profile-views-counter">
-       <img width="115px" src="https://komarev.com/ghpvc/?username=AlexSalty&color=83887b">
+       <img width="125px" src="https://komarev.com/ghpvc/?username=AlexSalty&color=83887b">
    </a>
 </div>
 
