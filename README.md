@@ -1,5 +1,11 @@
 ![Profile views](https://gpvc.arturio.dev/[AlexSalty])
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
+
 ## BIO
 
 For the past six years, I have been leading teams of technical and financial analysts, focusing on automated reporting and facilitating decision-making based on data. When I was an analyst myself, I always enjoyed creating reports and writing database queries. Today, the world of analytics has changed significantly - data is growing exponentially, new approaches and tools are emerging. In order to stay up to date with the latest trends, I strive to learn something new. Below, you can track my progress in this exciting new world.
