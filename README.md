@@ -46,6 +46,7 @@ For the past six years, I have been leading teams of technical and financial ana
 ## Progects
 
 | Project Name | Project Source | Description | Status |
+|-----------|-----------|-----------|-----------|
 |Well Location|Practicum|-----------|-----------|
 |-----------|-----------|-----------|-----------|
 
