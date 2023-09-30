@@ -45,10 +45,10 @@ For the past six years, I have been leading teams of technical and financial ana
 
 ## Progects
 
-| Project Name | Project Source | Description | Status |
-|-----------|-----------|-----------|-----------|
-|Well Location|Practicum|-----------|-----------|
-|-----------|-----------|-----------|-----------|
+| Project Name | Project Source | Description | Status | Nonebook ENG | Nonebook RUS |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+|Well Location|Practicum|-----------|-----------|<a href="[https://github.com/AlexSalty/github-profile-views-counter"](https://github.com/AlexSalty/Practicum_Data_Sciense/blob/main/p7_well_location_selection.ipynb)>|-----------|
+|-----------|-----------|-----------|-----------|-----------|-----------|
 
 
 <p align='center'>
