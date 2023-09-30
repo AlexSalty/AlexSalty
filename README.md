@@ -59,3 +59,5 @@ For the past six years, I have been leading teams of technical and financial ana
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexSalty)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSalty)](https://github.com/anuraghazra/github-readme-stats)
