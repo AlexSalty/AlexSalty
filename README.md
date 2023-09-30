@@ -12,7 +12,7 @@ For the past six years, I have been leading teams of technical and financial ana
 ## Contacts
 
 <p align='center'>
-   <a href="linkedin.com/in/alexander-saltykov-04572376">
+   <a href="https://linkedin.com/in/alexander-saltykov-04572376">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/alex_saltykov">
